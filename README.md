@@ -55,5 +55,5 @@
 ---
 
 <p align="center">
-  <sub>📄 <a href="RESUME_LINK">Resume</a> · Based in Giza, Egypt</sub>
+  <sub>📄 <a href="https://drive.google.com/file/d/1B1gqQgQGLizgT5DR2SbaR1wHmVVcHmkE/view?usp=sharing">Resume</a> · Based in Giza, Egypt</sub>
 </p>
