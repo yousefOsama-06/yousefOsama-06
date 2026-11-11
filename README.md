@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousefosama06"><img src="https://img.shields.io/badge/LinkedIn-yousefosama06-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://codeforces.com/profile/CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-CF_HANDLE-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://codeforces.com/profile/Yousef.Osama"><img src="https://img.shields.io/badge/Codeforces-Yousef.Osama-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://icpc.global/ICPCID/3LLU0AETB2LW"><img src="https://img.shields.io/badge/ICPC-Profile-white?style=flat" alt="ICPC"></a>
   <a href="mailto:yousof.osama.2006@gmail.com"><img src="https://img.shields.io/badge/Email-yousof.osama.2006%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
